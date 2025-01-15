@@ -58,24 +58,3 @@ function drawRectangles() {
 drawRectangles();
 
 console.log(grid);
-
-/*
-  [
-    [{x: Number, y: Number, isPainted: Boolean}]
-  ]
-*/
-
-/*
-
-  WIDTH = 5
-  HEIGH = 5
-  <canvas>
-  [
-    [<Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty> ],
-    [<Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty> ],
-    [<Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty> ],
-    [<Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty> ],
-    [<Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty>, <Empty></Empty> ],
-  ]
-  </canvas>
-*/
